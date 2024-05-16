@@ -1,4 +1,4 @@
-#Python Snake Game with GUI
+
 This Python Snake Game is a classic arcade-style game implemented in Python using the turtle module to create a graphical user interface (GUI). Players can control the snake using keyboard inputs, navigating it through the game board to collect food and grow longer. The objective is to avoid colliding with walls or the snake's own body while aiming to achieve the highest score possible.
 
 Features:
